@@ -1,0 +1,44 @@
+{
+  "name": "StarterKit",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "firebase": "^4.1.2",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "native-base": "0.5.11",
+    "react": "15.3.2",
+    "react-addons-shallow-compare": "^15.3.2",
+    "react-moment": "^0.2.2",
+    "react-native": "^0.34.0",
+    "react-native-animatable": "^1.1.0",
+    "react-native-audioplayer": "^0.2.0",
+    "react-native-communications": "^2.2.1",
+    "react-native-easy-toast": "^1.0.6",
+    "react-native-google-analytics-bridge": "^3.1.0",
+    "react-native-navbar": "^1.5.1",
+    "react-native-pdf-view": "^0.3.2",
+    "react-native-progress": "^3.2.0",
+    "react-native-prompt": "^1.0.0",
+    "react-native-side-menu": "^0.20.0",
+    "react-native-storage": "^0.1.5",
+    "react-native-svg": "^4.3.1",
+    "react-native-tab-view": "0.0.29",
+    "react-native-vector-icons": "^2.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0",
+    "tcomb-form-native": "^0.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-preset-react-native": "^1.9.0",
+    "babel-register": "^6.14.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
